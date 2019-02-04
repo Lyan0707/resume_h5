@@ -52,6 +52,7 @@ document.ontouchend=function(e){
         }
     
         section[i].className='main-page current';
+        this.moveY='';
     
 }
 
